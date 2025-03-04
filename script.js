@@ -67,7 +67,7 @@ function togglePlay() {
    "click",
    function () {
      window.location =
-       "https://wa.me/+919406742936?text= toh boliye ji kab chlenge second date pe?? !!!!! ";
+       "https://wa.me/+917797246837?text= toh boliye ji kab aur kahn chlenge second date pe ??!!! ";
    },
    false
 );
