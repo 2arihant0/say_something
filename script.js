@@ -67,7 +67,7 @@ function togglePlay() {
    "click",
    function () {
      window.location =
-       "https://wa.me/+917797246837?text= toh boliye ji kab aur kahn chlenge second date pe ??!!! ";
+       "https://wa.me/+918249140797?text= wese wo jo mene tumse high demand ki thi uska sochna aapne ??!!! ";
    },
    false
 );
